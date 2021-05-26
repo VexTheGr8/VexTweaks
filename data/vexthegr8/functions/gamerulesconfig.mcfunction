@@ -1,0 +1,4 @@
+gamerule keepInventory true
+gamerule commandBlockOutput false
+gamerule reducedDebugInfo false
+gamerule randomTickSpeed 100

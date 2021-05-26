@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "VexTweaks",
+        "description": "Tweaks from VexTheGr8",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'VexTheGr8'}"
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
