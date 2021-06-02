@@ -1,0 +1,1 @@
+scoreboard players reset statset statset_rec 

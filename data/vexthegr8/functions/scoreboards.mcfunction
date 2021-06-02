@@ -11,8 +11,6 @@ scoreboard objectives modify minedGranite displayname "Amt of mined Granite"
 scoreboard objectives modify minedStone displayname "Amt of mined stone"
 
 scoreboard objectives modify Health rendertype hearts
-scoreboard players reset @a DeathCount
-scoreboard players reset @a Levels
 
 scoreboard objectives setdisplay belowName Health
 scoreboard objectives setdisplay sidebar DeathCount
@@ -24,8 +22,6 @@ scoreboard objectives add minedStone mined:stone
 scoreboard objectives add minedGranite mined:granite
 scoreboard objectives add minedDiroite mined:diorite
 scoreboard objectives add minedAndesite mined:andesite
-
-
 
 w VexTheGr8 scoreboards added
 tellraw @p {"text":"Try to stay high on the scoreboards!","bold":true,"color":"gold","font":"minecraft:default","clickEvent":{"action":"suggest_command","value":"I'm going to win!"}}
