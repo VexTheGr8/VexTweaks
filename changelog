@@ -1,0 +1,24 @@
+CHANGELOG
+
+version = 1.1
+
+STATUS UPDATE!
+VexTweaks now includes a status feature, simply do /trigger and there will be several options that you can 
+choose:
+    -AFK
+    -Live
+    -Recording
+    -Playing
+    -PvP
+
+Other Updates:
+    -Renovated the /function vexthegr8:help menu
+    -Optimized namespaces
+    -Added fountain.nbt (renovated fountain; credits to Uniteds0up)
+    -Made some minor changes to /function vexthegr8:setup
+
+This will show up in the server tab list along with a color and prefix before your username.
+If you have any issues or find any bugs report them at the Github Issues page.
+
+Thanks, 
+VexTheGr8

@@ -1,0 +1,1 @@
+scoreboard players reset statset_afk statset

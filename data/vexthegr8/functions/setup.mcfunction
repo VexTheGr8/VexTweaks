@@ -1,5 +1,6 @@
-function vexthegr8:vextweaks/scoreboards
-function vexthegr8:vextweaks/gamerulesconfig
-function vexthegr8:vextweaks/worldborder
-title @a title {"text": "Server Setup!"}
-tellraw @a "run /function vexthegr8:vextweaks/help to find out about all the commands"
+function vexthegr8:gamerulesconfig
+function vexthegr8:worldborder
+function vexthegr8:scoreboards
+
+title @a title {"text": "Server/World Setup!"}
+tellraw @a "run /function vexthegr8:help to find out about all the commands"
