@@ -1,0 +1,1 @@
+scoreboard players set statset_live statset 1
