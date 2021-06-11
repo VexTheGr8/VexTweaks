@@ -1,0 +1,30 @@
+{
+    "__comment": "ez",
+    "display": {
+        "title": {
+            "text": "Ze Architect!"
+        },
+        "description": {
+            "text": "Place down a scaffolding block"
+        },
+        "icon": {
+            "item": "minecraft:scaffolding"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "placescaffold": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:scaffolding"
+            }
+        }
+    },
+    "rewards": {
+        "experience": 5
+    },
+    "parent": "vexthegr8:root"
+}

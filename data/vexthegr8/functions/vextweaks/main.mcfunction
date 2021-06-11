@@ -2,6 +2,7 @@
 
 function vexthegr8:gamerulesconfig
 function vexthegr8:enable_all
+gamerule sendCommandFeedback true
 
 execute if score statset_afk statset matches 1 run scoreboard players enable @a status-afk
 execute if score statset_rec statset matches 1 run scoreboard players enable @a status-rec

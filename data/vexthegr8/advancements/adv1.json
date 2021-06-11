@@ -1,0 +1,27 @@
+{
+    "__comment": "ez",
+    "display": {
+        "title": {
+            "text": "Get PETA on the phone!"
+        },
+        "description": {
+            "text": "Kill an entity"
+        },
+        "icon": {
+            "item": "minecraft:iron_sword"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "playerPETAkill": {
+            "trigger": "minecraft:player_killed_entity"
+        }
+    },
+    "rewards": {
+        "experience": 5
+    },
+    "parent": "vexthegr8:root"
+}

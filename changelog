@@ -1,23 +1,16 @@
 CHANGELOG
 
-version = 1.1
+version = 1.3
 
-STATUS UPDATE!
-VexTweaks now includes a status feature, simply do /trigger and there will be several options that you can 
-choose:
-    -AFK
-    -Live
-    -Recording
-    -Playing
-    -PvP
+Minor Tweaks:
 
-Other Updates:
-    -Renovated the /function vexthegr8:help menu
-    -Optimized namespaces
-    -Added fountain.nbt (renovated fountain; credits to Uniteds0up)
-    -Made some minor changes to /function vexthegr8:setup
+Minor Optimization Tweaks and 1 new feature:
 
-This will show up in the server tab list along with a color and prefix before your username.
+/function vexthegr8:commandblock > gives you a command block and lever
+
+
+
+
 If you have any issues or find any bugs report them at the Github Issues page.
 
 Thanks, 

@@ -1,6 +1,6 @@
 #built by vexthegr8
 
-title @a title {"text":"VexTweaks: Made by VexTheGr8","color":"blue","font":"minecraft:default"}
+title @a title {"text":"VexTweaks: v1.2","color":"blue","font":"minecraft:default"}
 tellraw @a {"text":"VexTweaks Enabled!","bold":true,"color":"blue","hoverEvent":{"action":"show_text","contents":[{"text":"Made by: VexTheGr8","bold":true}]}}
 
 scoreboard objectives add status-afk trigger [{"text":"Status: "},{"text":"AFK","color":"dark_red"}]
@@ -23,3 +23,4 @@ team modify status_rec prefix [{"text":"[","color":"white"},{"text":"REC","color
 team modify status_live prefix [{"text":"[","color":"white"},{"text":"LIVE","color":"light_purple"},{"text":"] ","color":"white"}]
 team modify status_playing prefix [{"text":"[","color":"white"},{"text":"Playing","color":"gold"},{"text":"] ","color":"white"}]
 team modify status_pvp prefix [{"text":"[","color":"white"},{"text":"PvP","color":"red"},{"text":"] ","color":"white"}]
+
