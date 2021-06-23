@@ -15,6 +15,7 @@ CRAFTING RECIPES!
 * Smeltable Granite (smelting granite or polished granite in a blast furnace turns into bricks)
 * Cuttable Glass (putting stone into a stonecutter can give you glass)
 * Craftable cobblestone from stone (put into stonecutter to convert)
+* Craftable Bell (2 iron bars on the top middle and middle slots, 1 stick at the top middle slot, 1 gold ignot in the middle)
 
 
 FUNCTIONS!
