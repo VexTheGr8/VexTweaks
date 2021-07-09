@@ -1,12 +1,21 @@
 CHANGELOG
 
-version = 1.3
+version = 1.4
 
 Minor Tweaks:
 
 Minor Optimization Tweaks and 1 new feature:
 
-/function vexthegr8:commandblock > gives you a command block and lever
+clocktower.nbt was renamed sprucestonetower.nbt
+
+sprucestonetower.nbt details:
+1 chest with the loot table: minecraft:chests/woodland_mansion (aka as loot generated from woodland mansions)
+
+2 floors:
+FIRST FLOOR: smithing table flooring, 3 barrels (one of which contains loot) and a ladder going to the second floor
+
+SECOND FLOOR: cobblestone slab/stair flooring, red bed with oak trapdoors and a crafting table
+
 
 If you have any issues or find any bugs report them at the Github Issues page.
 

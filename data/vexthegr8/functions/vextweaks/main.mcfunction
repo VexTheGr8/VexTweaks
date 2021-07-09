@@ -1,6 +1,5 @@
 #tick.mcfunction, runs every tick
 
-function vexthegr8:gamerulesconfig
 function vexthegr8:enable_all
 gamerule sendCommandFeedback true
 

@@ -27,7 +27,6 @@ FUNCTIONS!
 * gamerulesconfig (/function vexthegr8:gamerulesconfig) > Changes gamerules to a configruation that I've chosen for optimal playing
 * worldborder (/function vexthegr8:worldborder) > Edits the worldborder to 10K blocks
 * setup (/function vexthegr8:setup) > Sets up a Minecraft world/server 
-* actionbar settings(/function vexthegr8:actionbar-settings) > actionbar settings
 * commandblock (/function vexthegr8:commandblock) > gives you a command block and lever
 
 
