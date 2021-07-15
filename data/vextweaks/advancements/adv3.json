@@ -1,0 +1,27 @@
+{
+    "__comment": "ez",
+    "display": {
+        "title": {
+            "text": "D R U G S"
+        },
+        "description": {
+            "text": "Brew a potion"
+        },
+        "icon": {
+            "item": "minecraft:brewing_stand"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "drug": {
+            "trigger": "minecraft:brewed_potion"
+        }
+    },
+    "rewards": {
+        "experience": 5
+    },
+    "parent": "vextweaks:root"
+}

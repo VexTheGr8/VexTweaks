@@ -1,0 +1,27 @@
+{
+    "__comment": "ez",
+    "display": {
+        "title": {
+            "text": "VexTweaks",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Custom Advancements",
+            "color": "gold",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:emerald_ore"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "ez": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

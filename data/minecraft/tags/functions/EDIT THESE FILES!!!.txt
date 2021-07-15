@@ -1,0 +1,3 @@
+load is the reset.mcfunction
+
+tick is the main.mcfunction or constnatly running one
