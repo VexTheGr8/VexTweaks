@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_bed"
+    },
+    "title": "Get laid ;)",
+    "description": "Sleep in a bed",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "vextweaks:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:slept_in_bed"
+    }
+  }
+}

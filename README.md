@@ -12,23 +12,21 @@ CRAFTING RECIPES!
 * Cobble/Gravel/Andesite Dust (really just renamed gunpowder, works the same way; can be crafted using a stonecutter) 
 * Craftable Saddle (3 leather on top and 1 tripwire hook in the middle)
 * Craftable Sticky Piston (Honeycomb combined with a regular piston in any formation makes a sticky piston)
-* Smeltable Granite (smelting granite or polished granite in a blast furnace turns into bricks)
-* Cuttable Glass (putting stone into a stonecutter can give you glass)
 * Craftable cobblestone from stone (put into stonecutter to convert)
 * Craftable Bell (2 iron bars on the top middle and middle slots, 1 stick at the top middle slot, 1 gold ignot in the middle)
 
 
 FUNCTIONS!
 
-* server crash (/function vexthegr8:servercrash) > Crashes the server
-* dooodoo (/function vexthegr8:doodoo) > Dream Easter Egg 
-* help (/function vexthegr8:help) > Redirects you to the Github Wiki
-* scoreboards (/function vexthegr8:scoreboards) > Establishes several scoreboards, only run if the server is new
-* gamerulesconfig (/function vexthegr8:gamerulesconfig) > Changes gamerules to a configruation that I've chosen for optimal playing
-* worldborder (/function vexthegr8:worldborder) > Edits the worldborder to 10K blocks
-* setup (/function vexthegr8:setup) > Sets up a Minecraft world/server 
-* commandblock (/function vexthegr8:commandblock) > gives you a command block and lever
-
+* server crash (/function vextweaks:servercrash) > Crashes the server
+* dooodoo (/function vextweaks:doodoo) > Dream Easter Egg 
+* help (/function vextweaks:help) > Redirects you to the Github Wiki
+* scoreboards (/function vextweaks:scoreboards) > Establishes several scoreboards, only run if the server is new
+* gamerulesconfig (/function vextweaks:gamerulesconfig) > Changes gamerules to a configruation that I've chosen for optimal playing
+* worldborder (/function vextweaks:worldborder) > Edits the worldborder to 10K blocks
+* setup (/function vextweaks:setup) > Sets up a Minecraft world/server 
+* commandblock (/function vextweaks:commandblock) > gives you a command block and lever
+* givemaxedgear (/function vextweaks:givemaxedgear) > gives you maxed netherite gear
 
 STRUCTURES!
 
